@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+yt-dlp
+openai-whisper                # or openai-whisper
+torch                  # CPU or your CUDA build
